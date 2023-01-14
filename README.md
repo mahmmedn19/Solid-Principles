@@ -83,9 +83,9 @@ This principle helps to keep the code more organized, making it easier to unders
 
 In order to use the code in this repository, you will need to have a development environment set up on your machine. This will typically include a code editor, a JDK, and the necessary dependencies.
 
-1.Clone the repository **git clone** *https://github.com/mahmmedn19/Solid-Principles.git*
-2.Import the project into your preferred development environment
-3.Build and run the project
+ 1. Clone the repository **git clone** *https://github.com/mahmmedn19/Solid-Principles.git* 
+ 2. Import the project into your preferred development environment
+ 3.  Build and run the project
 
 ## HeadingContribute :handshake:
 
@@ -93,9 +93,9 @@ We welcome contributions to this repository. If you would like to contribute, pl
 
 ## HeadingFork the repository
 
-1.Create a new branch for your feature or bug fix
-2.Make your changes
-3.Create a pull request
+ 1. Create a new branch for your feature or bug fix
+ 2.  Make your changes
+ 3. Create a pull request
 
 ## HeadingLicense :page_with_curl:
 
